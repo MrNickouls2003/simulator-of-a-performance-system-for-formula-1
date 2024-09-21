@@ -1,4 +1,4 @@
-# SIMULADOR DE UM SISTEMA DE PERFORMANCE PARA FÓRMULA 1
+# Projeto de Simulação de Treinamento de Piloto de Fórmula 1
 
 ## Português
 
