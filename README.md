@@ -39,6 +39,3 @@ Este projeto foi desenvolvido em MikroC for PIC e faz uma alusão ao treinamento
 #### Velocidade Máxima (100%)
 - Quando a velocidade chega a 100%, a temperatura do motor ainda está em 35ºC, mas um cooler de emergência é ativado por precaução.
 - O buzzer também é acionado para alertar o engenheiro de que o motor está operando em sua velocidade máxima.
-
-## Conclusão
-Este projeto simula uma experiência de monitoramento de um piloto de Fórmula 1, oferecendo ao engenheiro de desempenho todas as informações necessárias para analisar e otimizar o desempenho do piloto, além de garantir a segurança do veículo ao controlar a temperatura do motor.
