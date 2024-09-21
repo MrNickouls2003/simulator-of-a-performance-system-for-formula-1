@@ -3,7 +3,7 @@
 ## Português
 
 ## Introdução
-Este projeto foi desenvolvido em MikroC for PIC e faz uma alusão ao treinamento de um piloto de Fórmula 1, realizado durante 5 voltas e monitorado pelo engenheiro de desempenho. O treinador do piloto é responsável por melhorar o desempenho, analisando dados como temperatura do motor e velocidade, além de fornecer orientações para otimizar a performance do piloto em pista.
+Este projeto foi desenvolvido em MikroC for PIC utilizando o PIC18F4550 e faz uma alusão ao treinamento de um piloto de Fórmula 1, realizado durante 5 voltas e monitorado pelo engenheiro de desempenho. O treinador do piloto é responsável por melhorar o desempenho, analisando dados como temperatura do motor e velocidade, além de fornecer orientações para otimizar a performance do piloto em pista.
 
 ## Funcionalidades
 
